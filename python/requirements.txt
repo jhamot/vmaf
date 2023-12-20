@@ -11,3 +11,4 @@ cython
 PyWavelets==1.1.1
 python-slugify>=5.0.0
 libsvm-official>=3.30
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
